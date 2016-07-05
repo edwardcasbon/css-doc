@@ -1,0 +1,22 @@
+{
+  "name": "css-doc.git",
+  "version": "1.0.0",
+  "description": "A Node script for parsing simple CSS comments and producing HTML and JSON docs.",
+  "main": "docs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edwardcasbon/css-doc.git"
+  },
+  "author": "edward@edwardcasbon.co.uk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardcasbon/css-doc/issues"
+  },
+  "homepage": "https://github.com/edwardcasbon/css-doc",
+  "dependencies": {
+    "handlebars": "^4.0.5"
+  }
+}

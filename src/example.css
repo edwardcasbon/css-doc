@@ -1,0 +1,25 @@
+/*
+ * This is some inline description.
+ *
+ * @name blah
+ * @description This is a description
+ */
+body { background-color: blue; }
+/*
+ * This is some inline description for blah.
+ *
+ * @name blah x
+ * @description This is a description for blah.
+ * Another line of description.
+ * 
+ * @anotherTing This is another thing here.
+ */
+.blah { background-color: blue; }
+.blah3 { border: 1px solid red; }
+/*
+ * This is some inline description for blah 2.
+ *
+ * @name blah x 2
+ * @description This is a description for blah 2.
+ */
+.blah2 { background-color: blue; }
