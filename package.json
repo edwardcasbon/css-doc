@@ -1,5 +1,5 @@
 {
-  "name": "css-doc.git",
+  "name": "css-doc",
   "version": "1.0.0",
   "description": "A Node script for parsing simple CSS comments and producing HTML and JSON docs.",
   "main": "docs.js",
